@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:FrameworkUse/FrameworkUse.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Framework-Bundle/Framework-Bundle.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:StaticFramework-Xib/StaticFramework-Xib.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Framework-Xib/Framework-Xib.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:FrameworkDemo/FrameworkDemo.xcodeproj">
+   </FileRef>
+</Workspace>
